@@ -1,0 +1,98 @@
+body{
+    background-color:rgb(253, 162, 209);
+    
+}
+div {
+    margin: 3px;
+    border-radius: 5px;
+    padding: 2px;
+    min-height: 30px;
+    border: 2px;
+}
+
+.header {
+    font-size: xx-large;
+    height: 40px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    text-align: center;
+}
+
+.nav {
+    height: 30px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    text-align: center;
+}
+
+.article {
+    float: left;
+    width: 60%;
+    height: 430px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+}
+
+.Header {
+    height: auto;
+    width: auto;
+    border-color: rgb(0, 0, 0);
+    border-style: solid; 
+}
+
+.section {
+    height: auto;
+    width: auto;
+    border-color:rgb(0, 0, 0);
+    border-style: solid; 
+}
+
+.latar{
+    height: auto;
+    width: auto;
+    border-color:rgb(0, 0, 0);
+    border-style: solid; 
+}
+
+.footer {  
+    height: auto;
+    width: auto;
+    border-color:rgb(0, 0, 0);
+    border-style: solid; 
+}
+
+.div {
+    float: right;
+    width: 37%;
+    height: 430px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+}
+
+.aside {
+    float: none;
+    width: auto;
+    height: auto;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+}
+.gambar {
+    img {
+        width :auto;
+        height: 240px;
+    }
+    float: none;
+    width: auto;
+    height: 240px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+}
+
+.Footer {
+    float: left;
+    height: auto;
+    margin: auto;
+    width: 99%;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+}
